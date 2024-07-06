@@ -1,6 +1,6 @@
 # SQL Chatbot with Ollama
 
-![Imagem chat bot sql](src/main/resources/static/img/SQLBot.png)
+![Imagem chat bot sql](src/main/resources/static/img/sql-chat-bot.png)
 
 ## Description
 This project implements a chatbot that utilizes AI focused on SQL. Users can ask questions in natural language, and the chatbot retrieves results from the database. It uses LangChain4J to simplify connections to the Ollama server, utilizing downloaded duckdb-nsql models.
@@ -36,5 +36,3 @@ git clone https://github.com/username/sql-chatbot.git
 ```
 2. Set up project dependencies with Maven.
 3. Run the `Main` class to start the chatbot.
----
-[Back to Top](#)
