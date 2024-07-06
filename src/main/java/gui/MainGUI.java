@@ -124,5 +124,4 @@ public class MainGUI extends JFrame {
         jButton.setBackground(Color.white);
         return jButton;
     }
-
 }

@@ -1,5 +1,40 @@
-# <a name="topo"></a>SQL Chat Bot
+# SQL Chatbot with Ollama
 
 ![Imagem chat bot sql](src/main/resources/static/img/SQLBot.png)
 
-O projeto visa criar uma aplicação que permite acessar informações de um banco de dados MySQL usando exclusivamente a linguagem natural. A aplicação deve ser capaz de interpretar a linguagem natural e traduzi-la para uma consulta SQL, executando-a e retornando o resultado ao usuário.
+## Description
+This project implements a chatbot that utilizes AI focused on SQL. Users can ask questions in natural language, and the chatbot retrieves results from the database. It uses LangChain4J to simplify connections to the Ollama server, utilizing downloaded duckdb-nsql models.
+
+## Features
+
+- Option to select any local database.
+- Option to choose language models downloaded on your machine through Ollama.
+- GUI designed for ease of use.
+
+## Technologies Used
+
+- Java
+- Ollama
+- LangChain4J
+- Lombok
+- MySQL
+- Java Swing (for the GUI)
+- Tests conducted with duckdb-nsql models: 7b-q3_K_S and 7b
+
+## Prerequisites
+
+- Java Development Kit (JDK)
+- Any database (in this case, MySQL)
+- Ollama API installed and configured
+- Duckdb-nsql language models available
+
+## Installation
+
+1. Clone the repository:
+```
+git clone https://github.com/username/sql-chatbot.git
+```
+2. Set up project dependencies with Maven.
+3. Run the `Main` class to start the chatbot.
+---
+[Back to Top](#)
