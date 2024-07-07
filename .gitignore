@@ -33,5 +33,4 @@ bin/
 
 ### properties ###
 src/main/resources/config.properties
-src/main/resources/static/img
 
