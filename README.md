@@ -10,6 +10,19 @@ This project implements a chatbot that utilizes AI focused on SQL. Users can ask
 - Option to select any local database.
 - Option to choose language models downloaded on your machine through Ollama.
 - GUI designed for ease of use.
+- Tested in two languages: English and Portuguese (BR)
+
+## How does it work
+![Example 1](src/main/resources/static/img/ex1.png)
+*Screenshot of the main interface.*
+
+![Example 2](src/main/resources/static/img/ex2.png)
+*Screenshot demonstrating functionality.*
+
+![Example 3](src/main/resources/static/img/ex3.png)
+*Screenshot demonstrating functionality.*
+
+
 
 ## Technologies Used
 

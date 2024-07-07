@@ -40,7 +40,7 @@ public class MainGUI extends JFrame {
         container();
 
         add(logoTipo());
-        add(jLabel("Bem-vindo ao SQL Bot", 130, 250, 50, 20));
+        add(jLabel(" Bem-vindo ao SQL Bot", 130, 250, 50, 20));
         add(jLabel("Selecionar Banco de Dados: ", 200, 220, 30, 16));
         add(listSchemas = jComboBox(230, dataBaseService.listSchemaNames()));
         add(jLabel("Selecionar LLM: ", 290, 220, 30, 16));
