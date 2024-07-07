@@ -13,14 +13,18 @@ This project implements a chatbot that utilizes AI focused on SQL. Users can ask
 - Tested in two languages: English and Portuguese (BR)
 
 ## How does it work
-![Example 1](src/main/resources/static/img/ex1.png)
+
+<img src="src/main/resources/static/img/ex1.png" alt="Example 1" width="400"/>
+
 *Screenshot of the main interface.*
 
-![Example 2](src/main/resources/static/img/ex2.png)
-*Screenshot demonstrating functionality.*
+<img src="src/main/resources/static/img/ex2.png" alt="Example 2" width="400"/>
 
-![Example 3](src/main/resources/static/img/ex3.png)
-*Screenshot demonstrating functionality.*
+*Screenshot demonstrating the calculation functionality.*
+
+<img src="src/main/resources/static/img/ex3.png" alt="Example 3" width="400"/>
+
+*Screenshot showing the user activity log.*
 
 
 
