@@ -20,11 +20,11 @@ This project implements a chatbot that utilizes AI focused on SQL. Users can ask
 
 <img src="src/main/resources/static/img/ex2.png" alt="Example 2" width="400"/>
 
-*Screenshot demonstrating the calculation functionality.*
+*Screenshot demonstrating the functionality.*
 
 <img src="src/main/resources/static/img/ex3.png" alt="Example 3" width="400"/>
 
-*Screenshot showing the user activity log.*
+*Screenshot demonstrating the functionality.*
 
 
 
