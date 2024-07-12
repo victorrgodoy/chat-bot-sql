@@ -33,10 +33,9 @@ This project implements a chatbot that utilizes AI focused on SQL. Users can ask
 - Java
 - Ollama
 - LangChain4J
-- Lombok
 - MySQL
 - Java Swing (for the GUI)
-- Tests conducted with duckdb-nsql models: 7b-q3_K_S and 7b
+- Model llm: duckdb-nsql:7b
 
 ## Prerequisites
 
@@ -52,4 +51,5 @@ This project implements a chatbot that utilizes AI focused on SQL. Users can ask
 git clone https://github.com/username/sql-chatbot.git
 ```
 2. Set up project dependencies with Maven.
+4. To connect your database, create and set up``resources/config.properties (url, user, password).``
 3. Run the `Main` class to start the chatbot.
